@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, Web Programing.
 - 🌱 I’m currently learning HTML, CSS 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me jl0973072@gmail.com
 
 <!---
 jose042031/jose042031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
